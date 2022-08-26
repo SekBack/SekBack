@@ -1,5 +1,7 @@
 ### 👋 I'm Sebastian Leon
 
+- 🌱 I’m currently learning Programming 
+
 <!--
 **SekBack/SekBack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
